@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  
 }
 body {
   background-image: url("./img/krishna.png");
@@ -54,4 +55,8 @@ body {
   border-radius: 50%;
   width: 25%;
   height: 20%;
+}
+.item {
+  color: white;
+  font-style: italic;
 }
